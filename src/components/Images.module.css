@@ -1,0 +1,36 @@
+.imagecontainer{
+    /* background-color: #40060b; */
+    height: 100vh;
+    width: 80vw;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.images{
+    display: flex;
+   
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.image{
+    width: 239px;
+    height: 200px;
+    margin: 0px;
+    overflow: hidden;
+    margin-bottom: 42px;
+
+}
+.img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.notfound{
+    display: flex;
+    justify-content: center;
+    color: firebrick;
+    font-size: 1.5em;
+    margin: 18px 0 18px;
+    text-transform: capitalize;
+}

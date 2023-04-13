@@ -1,0 +1,9 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+    font-size: 4em;
+    color: firebrick;
+    padding: 20px
+}

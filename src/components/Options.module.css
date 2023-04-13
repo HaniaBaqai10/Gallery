@@ -1,0 +1,19 @@
+.optionscontainer{
+display: block;
+}
+.options{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.option{
+    margin: 10px;
+    width: 94px;
+    background-color: firebrick;
+    color: white;
+    text-align: center;
+    height: 36px;
+   cursor: pointer;
+    line-height: 36px;
+    text-decoration: none;
+}

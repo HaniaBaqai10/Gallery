@@ -1,0 +1,28 @@
+.searchcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchinp{
+    font-size: 1em;
+    height: 40px;
+    width: 35vw;
+    border-block-color: unset;
+}
+.searchbtn{
+    height: 40px;
+    width: 5vw;
+    height: 40px;
+    width: 5vw;
+    color: white;
+    background-color: firebrick;
+    cursor: pointer;
+    border: none;
+}
+.searchicon{
+    height: 18px;
+    width: 2vw;
+    position: relative;
+    top: 11px;
+    right: -14px
+}
